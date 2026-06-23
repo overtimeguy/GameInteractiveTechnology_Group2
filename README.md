@@ -1,7 +1,7 @@
 경희대학교 2026-1 게임인터렉티브테크놀로지 시연용 데모입니다.
 
 ## 시연 영상
-
+(사진을 클릭해서 유튜브로 이동)
 [![시연 영상 썸네일](assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=xhGbs1We69s)
 
 ## 보고서
